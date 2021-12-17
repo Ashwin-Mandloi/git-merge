@@ -1,2 +1,2 @@
 # git-merge
-master-branch
+feature2
